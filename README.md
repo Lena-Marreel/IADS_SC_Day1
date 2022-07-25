@@ -1,1 +1,2 @@
-# SC_Day1Ex1
+# First day at IADS summer school 2022
+Focus = IntroToPython and IntroToUsingColab
